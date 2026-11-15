@@ -1,0 +1,1488 @@
+%PDF-1.4
+%ìåãû ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 163 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/wadekarg/DS-Algo-Playground)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 723.7354 113.715 734.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 678.7354 113.715 689.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 646.7354 113.715 657.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 614.7354 113.715 625.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 582.7354 113.715 593.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pythontutor.com/java.html)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 537.7354 113.715 548.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 505.7354 113.715 516.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.datastructures.in/visualizer)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 473.7354 113.715 484.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 54.18898 432.7354 87.20998 443.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pythontutor.com/java.html)
+>> /Border [ 0 0 0 ] /Rect [ 252.549 432.7354 325.584 443.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en)
+>> /Border [ 0 0 0 ] /Rect [ 457.389 432.7354 492.903 443.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R ] /Contents 164 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 725.1979 273.2052 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayList.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 724.5754 393.3939 734.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/array/)
+>> /Border [ 0 0 0 ] /Rect [ 400.3161 724.5754 461.6697 734.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 704.1979 231.7052 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/java/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 703.5754 384.1643 713.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 391.0865 703.5754 450.1161 713.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/Search.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 683.1979 248.7617 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/searching-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 682.5754 377.2504 692.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/binary-search/)
+>> /Border [ 0 0 0 ] /Rect [ 384.1726 682.5754 472.2854 692.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 662.1979 231.7052 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 661.5754 379.5495 671.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/prefix-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 386.4717 661.5754 416.4513 671.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.dev/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 641.1979 227.0904 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/two-pointers-technique/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 640.5754 386.0152 650.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/two-pointers/)
+>> /Border [ 0 0 0 ] /Rect [ 392.9374 640.5754 422.917 650.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 620.1979 231.7052 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/window-sliding-technique/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 619.5754 394.7717 629.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/sliding-window/)
+>> /Border [ 0 0 0 ] /Rect [ 401.6939 619.5754 431.6735 629.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en/sorting)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 599.1979 253.3848 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Arrays.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 599.1979 385.5587 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en/sorting)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 578.1979 253.3848 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/sorting-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 578.1979 366.1782 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en/heap)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 557.1979 246.9357 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/heap-sort/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 557.1979 375.8726 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 536.1979 223.87 547.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/sorting-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 536.1979 366.1782 547.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 
+  27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 
+  37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R ] /Contents 165 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/StackArray.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 725.1979 244.6117 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Deque.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 724.5754 385.1022 734.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/stack/)
+>> /Border [ 0 0 0 ] /Rect [ 392.0244 724.5754 422.004 734.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/QueueArray.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 704.1979 248.77 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Queue.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 703.5754 385.567 713.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/queue/)
+>> /Border [ 0 0 0 ] /Rect [ 392.4892 703.5754 422.4688 713.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/CircularQueueArray.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 683.1979 279.6626 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayDeque.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 683.1979 385.0939 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 662.1979 223.87 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Deque.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 662.1979 385.1022 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 641.1979 243.6904 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/PriorityQueue.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 641.1979 391.5513 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/LinkedList.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 620.1979 263.5274 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 620.1979 393.4022 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/DoublyLinkedList.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 599.1979 264.9052 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/LinkedList.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 599.1979 378.18 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 578.1979 223.87 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/circular-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 578.1979 380.4625 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pythontutor.com/java.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 557.1979 260.7718 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 556.5754 364.3273 566.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/linked-list-cycle/)
+>> /Border [ 0 0 0 ] /Rect [ 371.2495 556.5754 391.9995 566.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 536.1979 231.7052 547.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/monotonic-stack/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 535.5754 417.3809 545.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sliding-window-maximum/)
+>> /Border [ 0 0 0 ] /Rect [ 424.3031 535.5754 467.1975 545.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/Annots [ 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 
+  54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 
+  64 0 R 65 0 R 66 0 R 67 0 R ] /Contents 166 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 725.1979 265.8348 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashMap.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 725.1979 396.1661 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/ClosedHash.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 704.1979 271.3626 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/hashing-data-structure/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 704.1979 386.9448 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 683.1979 231.7052 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashSet.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 682.5754 372.6439 692.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/TreeMap.html)
+>> /Border [ 0 0 0 ] /Rect [ 379.5661 682.5754 432.6114 692.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 662.1979 223.87 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/hash-table/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 662.1979 392.0161 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pythontutor.com/java.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 641.1979 260.7718 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/recursion/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 641.1979 375.3995 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 620.1979 231.7052 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 620.1979 374.943 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pythontutor.com/java.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 599.1979 260.7718 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subsets/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 598.5754 350.9643 608.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/permutations/)
+>> /Border [ 0 0 0 ] /Rect [ 357.8865 598.5754 406.7818 608.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 578.1979 223.87 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/n-queens/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 577.5754 358.7995 587.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sudoku-solver/)
+>> /Border [ 0 0 0 ] /Rect [ 365.7217 577.5754 393.867 587.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 557.1979 231.7052 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/string/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 557.1979 401.2208 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/Annots [ 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 
+  79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 
+  89 0 R ] /Contents 167 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/BST.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 725.1979 239.9969 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/tree/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 725.1979 373.5735 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 704.1979 223.87 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/tree/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 704.1979 386.9282 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 683.1979 239.5404 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/avl-tree-set-1-insertion/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 683.1979 356.9569 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 662.1979 262.133 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/introduction-to-red-black-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 662.1979 379.5495 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/Trie.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 641.1979 238.146 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-trie-prefix-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 641.1979 376.3208 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 620.1979 243.6904 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/PriorityQueue.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 620.1979 391.5513 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 599.1979 223.87 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/kth-largest-element-in-an-array/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 598.5754 360.6504 608.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/top-k-frequent-elements/)
+>> /Border [ 0 0 0 ] /Rect [ 367.5726 598.5754 389.717 608.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 578.1979 231.7052 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/data_structures/segment_tree.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 578.1979 374.4699 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 557.1979 231.7052 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 557.1979 338.9625 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 536.1979 231.7052 547.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/data_structures/fenwick.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 536.1979 374.4699 547.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/data_structures/sparse-table.html)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 515.1979 246.9108 526.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 515.1979 374.943 526.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en/ufds)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 494.1979 251.0691 505.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 494.1979 374.4699 505.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/Annots [ 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 
+  101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 
+  111 0 R 112 0 R 113 0 R 114 0 R 115 0 R ] /Contents 168 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 725.1979 231.7052 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 725.1979 385.1022 736.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en/dfsbfs)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 704.1979 260.2987 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/graph/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 704.1979 380.4957 715.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 683.1979 223.87 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/topological-sorting/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 683.1979 397.0874 694.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en/sssp)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 662.1979 250.6209 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/graph/dijkstra.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 662.1979 374.4699 673.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 641.1979 223.87 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/graph/bellman_ford.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 641.1979 374.4699 652.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 620.1979 223.87 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+128 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 620.1979 374.4699 631.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+129 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en/mst)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 599.1979 245.9978 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+130 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/minimum-spanning-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 599.1979 358.7912 610.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+131 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 578.1979 223.87 589.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+132 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/graph/strongly-connected-components.html)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 577.5754 394.2986 587.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+133 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cp-algorithms.com/graph/bridge-searching.html)
+>> /Border [ 0 0 0 ] /Rect [ 401.2208 577.5754 429.3578 587.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+134 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 557.1979 231.7052 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+135 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/dynamic-programming/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 557.1979 352.7986 568.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+136 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 536.1979 231.7052 547.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+137 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/tag/dynamic-programming/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 536.1979 370.8013 547.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+138 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 515.1979 247.3839 526.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+139 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/dp-on-trees-for-competitive-programming/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 515.1979 369.4069 526.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/gold/dp-bitmasks)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 494.1979 268.5904 505.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+141 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/digit-dp-introduction/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 494.1979 371.706 505.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+142 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/)
+>> /Border [ 0 0 0 ] /Rect [ 193.4173 473.1979 247.3839 484.1979 ] /Subtype /Link /Type /Annot
+>>
+endobj
+143 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/gold/meet-in-the-middle)
+>> /Border [ 0 0 0 ] /Rect [ 320.9764 472.5754 388.7874 482.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+144 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/plat/rerooting)
+>> /Border [ 0 0 0 ] /Rect [ 395.7096 472.5754 431.6901 482.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+145 0 obj
+<<
+/Annots [ 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 
+  127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 
+  137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R ] /Contents 169 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+146 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pythontutor.com/java.html)
+>> /Border [ 0 0 0 ] /Rect [ 252.774 749.7354 350.82 760.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+147 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/TheAlgorithms/Java)
+>> /Border [ 0 0 0 ] /Rect [ 236.754 717.7354 346.1929 728.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+148 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algs4.cs.princeton.edu/home/)
+>> /Border [ 0 0 0 ] /Rect [ 354.294 717.7354 436.4263 728.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+149 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.oracle.com/en/java/javase/21/docs/api/)
+>> /Border [ 0 0 0 ] /Rect [ 444.825 717.7354 541.1858 728.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+150 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/)
+>> /Border [ 0 0 0 ] /Rect [ 132.714 698.7354 171.738 709.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+151 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/)
+>> /Border [ 0 0 0 ] /Rect [ 179.244 698.7354 241.767 709.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+152 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hackerrank.com/domains/data-structures)
+>> /Border [ 0 0 0 ] /Rect [ 249.273 698.7354 363.807 709.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+153 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://usaco.guide/)
+>> /Border [ 0 0 0 ] /Rect [ 371.313 698.7354 429.831 709.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+154 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algolab.rajpurohit.me/)
+>> /Border [ 0 0 0 ] /Rect [ 97.19998 521.7354 130.221 532.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+155 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://algo.simuveda.in/)
+>> /Border [ 0 0 0 ] /Rect [ 137.727 521.7354 179.244 532.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+156 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cs.usfca.edu/~galles/visualization/)
+>> /Border [ 0 0 0 ] /Rect [ 186.75 521.7354 217.251 532.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+157 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://visualgo.net/en)
+>> /Border [ 0 0 0 ] /Rect [ 224.757 521.7354 260.271 532.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+158 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pythontutor.com/java.html)
+>> /Border [ 0 0 0 ] /Rect [ 267.777 521.7354 310.293 532.5354 ] /Subtype /Link /Type /Annot
+>>
+endobj
+159 0 obj
+<<
+/Annots [ 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 
+  156 0 R 157 0 R 158 0 R ] /Contents 170 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 162 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+160 0 obj
+<<
+/PageMode /UseNone /Pages 162 0 R /Type /Catalog
+>>
+endobj
+161 0 obj
+<<
+/Author (OpenAI) /CreationDate (D:20261114184526+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261114184526+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Java DSA Interactive Visual Learning Handbook) /Trapped /False
+>>
+endobj
+162 0 obj
+<<
+/Count 8 /Kids [ 4 0 R 16 0 R 43 0 R 68 0 R 90 0 R 116 0 R 145 0 R 159 0 R ] /Type /Pages
+>>
+endobj
+163 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1341
+>>
+stream
+Gatm:?ZVu#&:aGPfLP\U<ffQhg8A31lWl0m8K1HsqBBFgW.79$,aWuVmUCt(GBTG#1s&!6Xeae1T9VE)prg]jd/^gd_8QWh>eoV7Get(q?,=jfg&6l/,`?1C9IURs(g,(i1s+[:?Y3!Kj33)8/.uqP+O4,iA<]=]1.djp#=CB(bk?f?3WmFs8$H+:"S[sW'(Z6.,,8C/\#"&X:NJQ`81$>u***NmJ(5&JI_*(C:G/#0(Vr9P\@):.CUc.2F4P3eUNW-7pXOJlq?p?mkes6U(!DY^^"-Bir#ko]6t(sK(fq(9bCj7YMK;2SF?l;d.0*5(1+EeO:K8l"?m:YVSpj[O"=^0dnUV#nP]-eX`)X`DU(knV2H]\7m3S%rSDs*aIa%S/8r<E%;T`..`CfJqqC_t&O4V+/0%.U8R@K$l;H(C0RrgJeK2Um-e2+*O_i0b#Wb1?s>:^k5Dr>%T`r9hd*rb5'#,C;f^G-;(@&e,bVBYo6GL2@('F&=<Wd^uDpk85rb>bc(OkJEVV;P:flfLmgS1K`c#KJ-R9Q,X_$UVhK;UM+q"B0T3Js=V"GlMYDpB\)b,1(R.:lu<06LML6cpC+OqVI1]'@u1F_I<GCLN9R'W&/<R.](X<FE-E9\(r(3H;cj6:7$,)CL(!WqP#bM_:9S$(6oZ:GIWhI#0Oct``0J-Ha'Y3?!-%Jg'"a4G3DSHqKDC&`8%m"_$l'-pAZ7r%nNn,(XPD3[REq-LdWt>4e;_/Y3R/$cp;.[h`]rJS`u(`9[A`f`(@NQ[+l$p8#XT&'WO:S80O^!4:-E(:aT.+qF:f4#*`[Im0f"'@-6h/L)1-<M`44l:mJcg@n"(Kg=j=U.XL<2D_SU?!YhK6[GOtCDC68.*5dDCM5=6_%N!E<$-6OVmI9j84G@Z$_LO\I1t`+XEnF*+ZI>WsV@Rj0fn#VFNh$9^(ph*jIVXjI>[si;9,T\.NCP)QQnW>:-N$E(O\XIC2:VML+K^S?icsY<\=/-obeXLe;^`iUj!Am"P&['f!Rt-rRZ[FW\g!:3Nd7/6h__)&\ZP;g>Y-uDIqi0E"c_V\C`f`/./SM?0p^fQKsMsajm,Ju4"8I3l'Ji&5`tkoVEi1a0aYLc)13K_&k2'4+uN7]i8(rNDIZk&&$/)ZgZTX[[OO01<Eo48[r$4BBLMuI13!1+8mJeCK(#X<lm+hHa8dH/E*7,XQ!U51DJV,aRZ/Af+%%ELm$ks4PAY2rWiCXkZTu>Hp?6d!gS3+EOPT7B;!0Pk<h[eg6fdJGnC@ssIcb2=R`*8$G(/6b/Bhqg%`-d:"jK2Y!U@S,H.q(B^\J,`XH>ISM=dhe@.k*9rLWE~>endstream
+endobj
+164 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1462
+>>
+stream
+Gb!#[>?BiC&:WeDbTgDF@eoHSM9G=q4mXV7;P*`Z3$S(UaBhFJcsPZJg#U_'flK',#)I(=Bh%"SBkG<"_]S<\o*)r*"GWO.E$$F9^dAmSj9e(GNkQO=1ebP1".#g5&-]j)T#>%=IssRj&_nHWLcG#(+SHu"=I_ie#RcI*OSR9n<s@WZhFL6sYeN-5!^@$3r?)OO*Wc]o02"UWBfPS;>ab(+(3,pdQn71j2mF'93Bi(&Q'GP6[TlG7.8;<B\<91Z;U+/:Tk;cb^AA3`?X`MV/8d&0Z>=m<CGD16D[cXJ;-8eg),F3'08VJ#"]:*>&P-4ph?2eX)Z'gp5P'+8n*IoDO=Uf)q7mXF_<6Kf0kYGXN<N0ZVklGVQ%W_X$X;5JflCZ=1Hs]:VDHLaN`8H_@er(('[H;QRRBOUDSV>1f:JSAVh%@@nph]*LGSLfEOR32cO2Mca0sa2T#:*[q"1YVf5P#Pa18?W2043[iGS'<r9Y^aRoJK9/VP'.K2W!$Lt9WJ(b6Q8XnBBSZf+mEG9[Z&Map/7_H1Qg[Bc(M=tQ_ACXEjK?=&\aTQ8Ht?9d/<<l9iZ'.=Yk,o9H^@EVgljp'8TkJ3fDrSC'K>+3%Q\U9s%3/QO`"espI9OEK[W,g9O0nR%q[U)4uRb$K!6b*GI!*-#dj9uu;#>dt=m,C21G78Zq?4had%uPC6<;:*GTuP/s<p0-L*ejcU4$T)73i_)V_73aW2f^6qaO$b8('^AjjBU;G#'jKS1+2"Q^-s5(G^<PfNsOi3*PQKRSK79S---<W"<9tbgjaNEru-Bu39u4o'*rps]r6T=A\Nk-h;G&to(2JD7R`r1-Nc??\a#E>hng(8`O(dRqXQ>'NDf6$d3W$hXa:ZYplJ.uVm7#&_:71J?JUGH4/)EW!GMl\8pRNN[P0t/5g5N\jZ%%Plbb+dnU1(-ggqRpZkcM[5e?!e^uN!Bk%fOIDrXA%?7m,L!n6DH^b[V7Q;ft5ELR.7"tYH\8Y-354oL7$pn6`Ne.PV:K67lO):U7;E=m%9eDs_MFN<>o*-f="6J%t.]O08t&7quP!_'FF?954#Jn+RTDlfaQYdhmbpZR8plkAF@[=ak=ITrfi%QFa"@Ih=Z^$eGa;HPZ^]$5)MNjDWc@^FR2d2nL9o3,:V-1,)-k87PfYU/DHXk5>k1eJTH@.ThMgd>ct0ceF6_o.Qh9XiB.nDZge'!1Cd>SmJIP2JQiIB]a<].6kA.XP7JUPbRZaSfhP>U"KH)a)eqj+U]>N41L,"n]Y1#]Cj8VSj@_WSfV0hoJ1Q1SchFD@,JJSD@8r_kUO%6%CmJrq&t^;8BN&"n?ntO1Gb*BR<R3@DH62$%nHgGg4t[o7@O#$,+:FB#XZF2%3JU)CnWQ"ts(46hqo\]m_mI"?:s]WTQun7<T=7gPfXZPc*!N;eeDmY9NgIXD[.`f8QgVs/LTSQi(YiI;ng3dZYa4~>endstream
+endobj
+165 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1765
+>>
+stream
+Gb!;ehc&8h&:WfGfZ,%S(&DdXpB:,]f:b"maS"e(KO_eDYuA\od_Gc^EhYN"M,!:$$je)C=5!PJrH>TS(f5T9s$%A'S.+?>Muhrm\,dq5KY[ii3B6eW5`CZ#MLcV^Kb?X[(24Z&hrb54_;dfkM@n!bjre--NM7'*TVNi<2/\E3l<nMJ3#d*lDLr.s,jH18$7:<p7:QG]Xm=9p0S9\7LgnR^(l[Fu8,H]QrREY#Puh[6P:CoMiCc)"fb%Jb[`l)U(-^AuG[2$X^VShY$kAiI'ubpGX'.1DD$m#brA2_ckV!5u#4Y,C-;#\CZf`Zl7LhQmVN'^M&0=acla9SdONt_j)$^qf8`7h;_&H/-\1I$roQQZHm,ZIN7bBCHapP=RYWRh5nW%:'r#J:iU5VKl$[@RHaqS_';5nmqqCqbN*tetU64t\GmCj#E0jjj9RCH6Q@bO=.19OV5fDB6YW`?BfHRQlqD0dMc6SEr?Hdkugk*qEBl6D^P3*pPnUB4He,[ad6.*&Q`ZdcKXe5Fb;:e\0*.i0(X3p0!!XaV>$8!#<tH)ig*22P!PpU94*7oBao1cY$VP3pgWY]paa9JT:l(fS^-*5CfAgGBo#L,%Qtd4jo3r>jN98Z,KOg1a_kGVMl^BsesKR,92(>),!*L_LEf?BKlG9nZ*mEus(@@@E3c2iI4c`]Qh:(r\^@B;`f>i*DZIYZ4`bdroB36JoT!Yt(UYpi6UCLcAT3@Zh@`6.7`N)LGsJgLkJ#&FZ]YCg+ZZ8Ep4n-NLf1Il[M>m^>LU7@I8TNdB8hrEZdg6r12Mn)r8`Bk(A4g%PtM$eBg!Bu1Fq(XoOmna&n0ZlRfL#'V)O(:\ap@R>68_AHhnG2_/t)LUk)?0>k`i#1+=5S)*8j?8D-XgfFKj.4E2iiF56?">r2/P)r./@X`i]S,ObY(5HnfqfAp;TaFZ=:=19_qH5Oi6jTUEg:$mFYT2f97gSp.qi^3]U3'"QL$bQFn7GQ%/'?^ZHG#:6"1qPFEZ[sVR%<0?;`?,IiSis%IOG6Ybm6[>N;%o10.l;/&iNjm%7XKg*c*A^'Jo8Tb(_@-V=gh$^_XBf^(r$@(-@j$)6&,edZY*,+fYlW72#q@kCZ5$=hZ<6:PG?>RGK.&PK-NVc'qjMdJgugog@gV5mHOFIW!E/0>Xgm;*,a?U\:96b?4'$PG<P:sC:R8^o0M*D'Md*jpa=bLaF%BD`Z/C"!`d:1i*[^U_l)pOnCX>_S.]?FSB6!9p2_MD5:9m_HEsWoMKDdJ=D)d&]ae=qYCkl\9?l[BI^8LmNJ&kM7_bT%s8n/T72h^Wj(FhHOoBEA7Bl>hgQ=WGoS>Gr]W3,$Ft^K\Vc45GWJNdAOfm%mC^r0seoT./<EEEHc[*eg"]s9OhH%15F_ocE[Z)P=JE,=mkn!&X7J&.c=(Y<W+NFPXrbt+%SNclk(7b@B\GAg)noG.82tckNgF".8_0^e]/]jjWeiuX=FngTcp'Z[qVUIUWXEAm^T&A@S:;#9V`hPbojk<Y:7>#&E,%+,&@Gq``uGqboi`q77:,e);15k)$F,""kZua,]=$o[2ePu=Q]a?gDWk02\i$kS0b=P9eIe(NJ7<%p7j2WNjbPJ5]u\bCBl.B11KG*b$3p*']k^=0LP?^*NknPHFkgmiaWOH15ktgMn4.d.\")'4'R#G_`]WCG+<#U2jmZ"_;!)&*SKE_8;],[ZY>Q66bu8SEF5!Ec:1t0"Emi*k;tU"A!i*Ac1N_f\@6$8efk;.rWB,WNZA~>endstream
+endobj
+166 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1782
+>>
+stream
+Gb!;e;,c4/&:WeDlm$(,8?sMabk-J7K=8\B6-8e+GVP4$/r:Sg#KjfrPoVAM87LV*DWVR&,-SZVC%pAIA20bPB#SC>!VeL%j)YE`_r)T'+9Db6nAer*Bocrd;],S_RX<Hb&hmZ!+22+K&IC+;#tRN6pCmic+A,9V?ij43_I`,_(iK$_7^TRSf,#cia/)'"Se`@\5_PqaL?ua"B+(*P"IDM3VATdhYl?;&%cR$(.==j1PD)jT59'A0cfX1'/kq]ZEUj*:_IRnXVN2g,n.Q!2f&DQr9nHBI=5ec4;<r[j??#iH@9Om>?NiiD;P<ccPGiEI"(=ePmK;DKAV"#("U/<d*1q:[^3'Kied)'nJX\c\*Y74UDW^'m5+AI\!<`n!EUmf0f.:8pZk8M_/MSPr+%MHhN;+Igi!>HU#4<!uWI7ir(u<\s"J1#b'dTffhjSilYO5j\B[i!.\nFRi2/;9RMe4FX2/CT*0j\SB.sM<4Ht2e^6&CbI76]0ET=N/-MDGSSaH@n\b6h0.-MN+mgAXJl-!:K;1lf"bO^Z+JY.`-G([68TnM7#O>2r3e?i-S([A&7@l-Q*>BjiUIDG:->Wn_'8@2["RZ8(>5?09jF_gZ;:WugeGL5UFDJa%P?ZDQ*MrA<ZAfs+0Y[*3/\5`n<rIJFYr2A+O,K'_.PdT1'O:n=O;/8B87pj_1kT:M9:X#W/!Lt?&a/8/;R3iiI3S-"@MG%/tH#oJ:!n0R)J&@VJ<RSet-4%uDP0t-JSL4-SnG\>]HLYAdEeFL;EW)_%b-X`)bqZD+$1rZX6e8cCPTU$jp`*&u_[B=]t?;dg1nHNaMJ>tQXP)QSa9*Dm^1#C6Y@U/pn[r<MA&%BjD/=MX;X<Bc#7QJZ,cR>n$(UsJ4aJbEOQdk:4\h.U>Qg]]9E99"#_UkM1m><WQZ(Dm%[^6IF1\gkHnL1R:]+g1PnO%U?hR//OO(^IG:[a,%g?c*kRZ-qSc)WBjZT*GOS[$I\%s%_>\-TNQ`dTZ$ZpeMP"RK&2IGBa(MeqM?h4@YtgS:>UOgr.H^UDi@](e>H]m'pUh`8>d@(Ri]$(DUU.=Ek/aj9<[@9auumm=/WGITdNjE,kFhCq%O4noE:6JCmi'P3XPqDMdM&[q>6_]-&i>B78rp.isAK\uO0l<Q,fk5Pr*E0"C<J:plBlH[BE"[nWV)mYg2SmqTQ4I^/!pL2Hb1rbs@j9?FeC!tuYMX#-)io>2UFBF*#^#l(HJ\aHE1U*k+iaGL_lud-]6YnS]h34tC*JuU?H1PM)?!FTa2NA/.m)RCfP]m[3p;F!rdj32e,`Z8E+2]59>41rmIoSiLhJ$T3M'qm:B%V].%:Id""c<Ss9(N10o11PS]B0#ui*MSQI`\r<OD1$;NQn9.NW.0^*ng^U8bd(RhnJ(Lc^fhK??o^Q55Cg%T,ua!kpSXiRXhPGVR;Gl/mB%CPCpH&/X>#LJXXY<SI"EY\d4d#KVPK(Yj"PXE9\W`3Y@W-+tB-SMn2:a-W",TJ?;EdG[5j%j^;01>4Ko0b)E[0E/g]\\=t:kXkYc`q=V0p*YIW4.F4$1.h)3u@tZ(Ds!6\o#=qT0;J+k96".7iOVW!u*Y]L[fp"LkKM&?pb$JKUT2CtCT#+-f8#):=Yq^WZbHL)Y_<q4]SE1;0LN">Jpa_ou[i`]N6.naf00>H)2ne"`WI38W0l[9h=dnElRDGpW=ZD*h9BXF$8f:eTH47.8^aP-T;I=L1$50tjccj)E9G3cHEFOCY0MRH-M&A^V0R:H\dn7G[1;_n_:3:T<~>endstream
+endobj
+167 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1695
+>>
+stream
+Gb!;e8R'q?&A@Zcl:C\:e#Uue)^,;N+N%Y9L\\I$EapV%P,!^>s*gso=dBB&Cl^2V(:C/Boi/,\mY1b]%kE,7&\t:fS=DBC*/9Ni,`sdnL-LFu57`R9/l`r(Xgq70LrWaj\o<.=5SX,WLd<a^\SsM6O#U<?#n\R7$!4651Dh+]7^TRSpM1F1E$\Arcr)P(6n7J981/RAX'mn5\0?ebc!VC)i>;OILX1TO\;YKmqEZ/d)u(IdKg13*j/6l6:Z*lj*flKFklV?D_!oEK>Z%SZ\#T,PT,:D,l$)?FB"fNaCW,Bs*`56qoU^1<FY.n^bg?oEJT-Z*c[#1!'Vr-UEmB6Hed7jL*umn).'k@sr<TA/MDP^)(_AWbr89$E2g[mE$DKI6.7L_`']X8);,EJh=)\2\La4kIG_A]VVk1f5pXU>D$2]FMTMW&pX/YT5o9?#^2.HdVTp\!uR]5".Z^./>nY+e39&?N`n%LN1QK2*:;e@@.1QsbC\R=:qk1,DLC0+l)A"(tGVsPdFWPWP?bemh*<&%'PcF);/I@Z0A&2(;1XYoN+`7;$GgKI_fJn/]Ei4QE4XLEpJF%)WG9JS/4QlVJNNdn+2q;&8Z)92MA7*DgZ>fclkbZYL>fdsM`]7jH."LQ<E;?B]\*;ei$"RAHXHco7+0iqIo?&g^G[CB)cg+C*i)k<Ok_TglSAHge>Sj$"%XBV:.4),/rX$;B&o5PCRRu#'2e.9s'Qi-A52-IAe*%r1I9_[HqQZs.Tn"'r[c'$;0\)k+igl<SMK>hsdNc"Y'OuP/eHm?VO@XkpN0KCKN0Js&%C^ZCFj8\">65-M-Dg,h'_Pm6I`r6b/G/8Td8_L/pdXiu5XM(a[N=Z>$MTu9&_/8.<n$FAY9nKRH(CoDTj($WH%6A9.4,X<<4[mkGC46pF%UL8EZR<8]o-^LZXZ*s&X9M$&JOOQYc1e0DVmAs8m>n]3Wuf["\C_Vpp4^'mDm9G\[;A,Jh`"2O>QFQ*).Yb1fXi#=!;'*"?%VDA4Ve%,0DQ<5%uWPAbC8/>FcWbHk9;ptH=tkHk82=4dKY_O-djro3L5bEDB$L^U+>kl<XEU;NjI%ujn.mD/rFV\.;<eVfFO[.@[*9CZb$C)7Rcb.8F@7)\H236P-tblCM_eDNU1E,`?6/[1!5fgZm(s=cIL`GD8.EpYE"+E%D**2Wi*B'qtR<J-FSI_.)sA-d2c,EmJ"uk]>4E#a<g[_M2sqpijO"djT\b4['ON6'M&TYqMM'Y3ZV$[L!\B%>E#/#Ih]oC=+4nNNW4)jOa9e4Va%DS&h`8e)pGYC@iP&SQqsIcQY\,=2W(MG?h!7!``$hR*J7E`WmUAkcOR"#[pWBke_@GgYr-*P,'tTi'%p\<_D^6diNNn;e@#X<N<h>O/](p@U2!+b<?oqt/^^j932/"?d6\t$>C`K&J@!dMXT_CS.^6$*R_dDegn@_!=a;f*aR@]OOgC<oq[KnnaQgdoh.(<:'t(FWo,V0e2=Tk/[(G]i"BZ>.?5]5AH'l-%jbaIiqf)gc;X\?Uo*<Ktr8I/(_ag)]ji'sjff],MXM,>nEUJU%G%G![)u.eAj!hFg\=ShO.![_/lhSa8Wkfkg%\Ltg?t&!HT+r]RY#.QtPQXR2WbXb[8LNUGJT$s-Hto[&]$oEWEnbHg,FFqX$-^0Z2D?mbs#EbNngaCli'5N+h+I~>endstream
+endobj
+168 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1730
+>>
+stream
+Gb!;e9j?@3&AI`dk",B".`qPXhLI6NK0BZ;g:_G[5m4ZRSTUI2m'#</*>H,&*9.b=#`qU;be0NkAi,ej:jfP5s'uUY4GHq8$lFci/MKHnN6gJ/n_QKW`!B(K%)`u(aTtG]Zk=9@T'[*rhtJmfN)1QE%T,oaO]9+9U_&4&`mbDdHYXkGftdEk#nh5,:k*"D_upVpBl'H0]$&bFVDl=;Oc1.^j#QJ@9>2_AH?9:.ZdKW2UeJO+pm`s<aUHI3;IjK"Kf;SHF.MK$?blFEN*eW(/]EI_D64Vre:MF?IYhD#f*fHS6$ukT6q1(IpRIGGG3FK2AJE`]GYD8AI_#mo_HD,+b(49i"O<MJp*G90@I<UcN^r+3r1$qUeF:I)Me*:;DkRH3qa&?nHX'&`.3gn5&KE!F_SY\5<9dd#f-#(J\VA%bqnWQ"W7np()TCK]$]XT(bif&ObeuS#j4t3mN.JW?1KQq#;n5i5&H``Jh>E*qo_k(==p8+N``7S_<Is)B4?Q$,_Pkk)"F;W$d-"L_f"l:[8(:F,s#=A]PH@^-Y_$h3U;?-Hp#$R\Rj,,f)HVf0UW$VV<CrY?2\liT.Vk78f$J&l>%]E#%-oBTX5elnH_&-j)V2<)/>FJ*(d:^$Upu0lQG(CG<DIkMe6AhnN?ArA#t2<GmAt4>@JR+D*62;n_&%u"NRt9[f&aUNn5#h.P9X0(HB8aNY=&_-boVr?gtM>;&R9MT(o_(%&@INl[$H*G`A3iu?P#-.HIMoO:D(PL)4-IUqrqcPc-MU>*ioQ6X!C_)Afd"Vr8?Eq=j(7dLt\WMk>eZOOdAY-k#i4<2qEUl/T^7O^oU!"]D2nm2j/(/P)mY1G'__r(.lKb-k*'smEOV[/=CnQ=b\l$"!iC?R`PTp=qg1ppRjAdC5IkI*YO3ff%l^U>jQ,k(#uY3V;>O/*#1k_1RQTc^`,06!g]!;6AWYaIQLo\m+c2a2e]!#)%/gpLGZnDm6gH>HJ%LKXLB1b:DDat0>=!-2oGn'X=:"q5,pgcE7G\1'PUmLjo+;`Xua[91_@4db<)(;`RHM5,T341i-c,j^%pj<4RGQ6$`'.<h9+!DlJ5shgT-.'4.H$aC]jWZQaOo5DJM>GYRaeT^K"XlTsC.b"XX]n80^3%Q_cn3\MkHMJ.09B59SuUl$W0WhB]]X-m2\2&J7M8]!ITY6Po8p*U`(E4(*b^)2QZ2jPP;88GOHt<c.SK;SD=-6#&Zl9Ol8JL@o.!<!jY%b#=dX:Y39<<r(dbgG]a-RGR_F+>Y.o-dPU1C-QL@8;a6tEH45.Z]c,CA*@W4[+Y-Y$9:SlO@Jg)j=`JsV)MZh=f?bMfBMj!T&MLdZ6an@HBm<*>=2:%2/$dHD'1oLiR@&Wd;E7m,(?O_I#!2Y3Y1qYqIHcn/t-\g#2HHN)'+NfJ@;=hj2/e^>84X.VPXWS?A.k!']IDs=Bcs'5]GmT%?VTU&[%'e&IuJ[n%C0eTbh.C2FTUt+t?e@._WoZVSi`n:bA<>N@.-;&Ye6>[Mp:#^nRc&'B]]ef_Ca_=pLmfqn[p_EpJ:N<6YNaN]9lQ-Cs<lLW99bb)(t[G2Oqe(62a&G5E>L1*>Xu($&4,jF8Q=jK@3iLO<NgHM8+#8RZO=Ze>:!OCh-i\62qpbLCr"J4VrFFX:>)aeZR2f^-5eQ.q82H@]"<P0Yh-Z74)pbp=aJ_^FmEpAT$mT=ajR1$umN:&[:#5G]=cr<I>8`?#~>endstream
+endobj
+169 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1916
+>>
+stream
+Gb!;f>Beg[%"?O+^gkqIXE]jqSNZ)?A8RO:[._(t]eD?[ZdHaUjD;rA+"0.VSCFk(Yra=)e!(%?I)6,=+B]$PIadHJ8Hs,hL:?=[."h%+TRmFd?c"JVK>.nP'QF[25bqpQj?O=r7j<[`(C)4=^CP>j.1$iP)"<2H1(4:r&.1^*f_HqLdD<t]Zo7FFPmP<1-r<-pJl;\<KL$fUSD!.K"k/lI+UKT_'ZM"1^/oLcc:5kD0!BDs-FLD5nC^c6Q,9@uAT%&Vr2T>P9i9^F!9:7:IUasI.$c.3e9\6/)WK'7O6?a+?P"\5iesRbKKKt44mSmd[ci:h84G-7_NKErd?D$F5ZeD4cPb*^3e:/oK>WM\7B%'o$4n_Xh<-7D'=]ZQ=fJ\8?Xa,]2rTQ@)?qS0k?&oN$n-rmj)BYo8e#.aTMk[c3%*kGRR7^*^G$!]<,I-.J1&Q(Kp;&UN55/69S8n)WD*$4N'>st)$><ubq.SN3=,B+/9_aEmDGP55i4NR$^uT^_n@KE5uU=A.jL)e)e!:!2G0OoN>,f'<E;[8m6=H@RjI*(@4#27JRYHa9_,mIYNj,30^E2ReJc>IMe+I5[ap\G8MSb/E7%dWCq#-_$fb6!;aI\f@RaSU)#eD/rOLms22pX_n;cJ)cld%\;HGo_<GdV@J5`$;TWKK8JIqs?lrS#jD\M(rd0)Lj=bo]QQ\<I?H2M'X0FWIq1>26)SuMgmG_@#EM.NB.3S]Pa$^`g.Sh83oQX(YX@e\r2KE64=4rQ\c1[;eH&U"DhG/)["2X-7N=TNZEmW;U2F9&imJVUakdtGIUpncR7WD29)iBD-nk_WNFImmPbbQOtG<Ko?RrB\\`,d2jY+aF1Vc`j0hZ,8-9Qg//_]cPS@&YWlfYLK\H\@[N+RKu\/T:)ml($5R<>KtQoY%h(;H@(0&P1LO5A4:<A+SlW54;s3^G>mlD1FFC*iQEsJ?6<=kV5`W\eOMAQ`1Djn:=Dnu8*<<$*C-^4q\lcl-ee#b.IL77:jS]KpX>m%<*@IG\pY#lPNj^6$;s$]rViT:Dgk6j/kopoflC6OiZ`>!)@mtA=ngi(gc`_d%p-:sg]r,LY"-Pq-J/Rkfdulk7:']dM:^/>.FNN@Rd!LaO/+Y0cL@mUeQlj\ogkTlL2Q?Cb!?5b#pIm+BRk=3[.l6.%fYijH]lg-Zo"tqSR4@058cZ>:?tc)Z@gm;AE'Y"]7s!lKm@?TdMQ&n\lkm4\((u-X4UGL6q`Aa&p2%W`7ak814i&C,5+C,(6t?D,,LX(G#s+fDSWF/R=>s1H:07rA5qoHf'T8[BbeA-^G'"L9uj*]Ps$QV^=^]0n9:7Qh+rWSQ[@ukdIHI>E7'#ojCn2l=@aY25!;HCKgm`ie&o<DI$m#oPtfgc1Ga0Geb-J/^N621,e3I!j.rC1oauT_lLjt/a4%5B`%9Rd)Oi4hbKgdq3r-A(&cj>7HEQ5L9W+jQ2?0JqU8[rA`uNM+%[?sbr7uqug$,PS]'3f/(CLjsc8lCS7C"B"fm:B2JU:.NY7@^rh=p^9[J+!r[hmN\9kUoKYHl's5PD3@JmdX!TJNi/AW%aZ;q_uFd"u`%g_JepM9m>M&It@fDVCh#FS:Hq,I0Za_Ss/<_P%X:>Il!u3Y@[AXpBeX'SIF"+ESg<iDmG^7C;$2B^H,2i<[j$_kn@o]g+SrF4\"?%G#E0;:+H_Q+Ol-r8Z@DEZTD-aa6?&_?fG?/3T0i:Dbc0'9%']V,G4QS&XmCrsh;"[7H`i_:uZ[oM4K]4gdf,Al?IIL=G!of\A*YAI4p-!Y>$?WaJuo0?Y'lb2`]^jdF-T]N#.O$MQo\s&l-IDg*Zq[b$R=?+Yu9BHR*h+"gdHp`ufnA?&*Qc&LgjF%L*fF9so`WOfoL4>2/8#DMtW)T^IaO=*$r#QFkle9CW~>endstream
+endobj
+170 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1682
+>>
+stream
+Gatm;;,c4/&:WeDlm(+rKI'd,gj;Ye;!s]$D/t'iMdhU_(YeN&16DM3><*j`gFIrF!##lP^&.3bVu7A<&Ur4.1TLN4:Z:Z'!bF(!!ud@?VDn!QHLgM2;/m5*'SoYG$P"GYM2W,CEcj\O4IjnD.#Ae-%!YC?&lB&PLc?_TllD?F3S=O4+U4NV64hF1N;gAF3K8U.,"`T[Gqc-8R+i0G&4*:i0Wj:*%t1Y?@PW](g)HqG?ecUq>-shQiPoP4(\Jb3l8kP?]DN,8s1n8$LcB@T836BhX60]:T)!$#_U^mt<%5bPaHQr_@]Wla;Nq=V5c@YF,sYQNd8^+,70IUdE-B?R-D:^(L)QR/"Su(QRi=&B-L6%fCI$h)oP%k@*irT&Q1eX:li3+;G^sUiKZ"T%-@j2,e[M^dROTMG!%Nds"La;dP"<f,F0KB4%Y'"7!Ta?*80\RH&DI$$Ua)HdL<jusgjISF5-Lf:esg8.>E-K54D'>GfHpGP:_kSQY"pZHV"]3CrU7MD+Lo0lq#sf6g3N#8268L_qR's4&K!I7hCEoI&Q8[>hei^!HoFit55h^&8S^q^q2Jgh-li.r*^(R^]lo+$Q)8s;cJ0:MlHHW.3sV0+92&W(9.9)6H$Z)&cq/&kTq,/A6o(US[[k>=b^=IC3a(KO8iWYVCW5g$`fkXT`>)94hAO:)Ou/G=cff">O!;N/+q0i&]UBs3eWcpd[F_+pl`tB.fQZQPe<hl4\=?c)pdN`)ojP!1s08',a:A!bd)X>bEs8<0aGO8nA,5QONc2*E[op0lbS+K\:ubp37cG^XO>[F%J%"Z">*(FrpXqfO3(@B'7\NPNL,LL7W-Ch5#ff"Ig2Q[Yfq(n^LlC#nUj<3*DOnc$=)A3)lNqWBN'BO;H5tST.q=n4STXo&=AD*?(btH:Y*X+$]nVAf?044]NY^UBanYcI>]iJQ?CjtKi<-(d>S;XAUB]]X+W-Xqr$N6?>8:DH)kpEM8N37\*5aeX[6h77b?%MDgDg3H%HR;PSOMP`6;el=n6DVmLSkLP$:&ADWUM,V,\Dq17-Zi9n)*bW&(PqHX]+#ZDp@<@9&PWT3S6A$2&mZs-cgf4e<h-]hno>UoJcoB^o_UtT.7p:EW.LZnaYbC`Q]`6!"'c>ke1sfDEF,dn\oN;+=8f0PuU1U"m$&cA?07Y6&Ub3?U4u(!nU3pi"lTEYi-DR3Ene=3UJO\^::I.UouF8&<I#A[`$]hHt,ju#k)/N(YaCkWNG&,W@o_pT[E^;%tPc0^H+UdAL*>V1JH.VY;*in%J7kf*nQI!F%N"C+XGman]T[1#TIY70%Z!l7Y[uqZ=VZ1@'OI*>9Dj3*O6b:KCq.QbiCe@NeK*#>[Z^J_77d]/TM-"mL/VogtL?F#&q=[i0"^8iHjOm/LYI!+#Q#3g3sK^Q0r#"p$@'W/N.PPj4qogN&,:Fp1o`4Ke4m-5<E]\NhtqVY:Sb3?$aGG@Gq#Tk8JHN5k8Fn?1'R7!<4(KVEk/h=s?,`9K/hUg5sR[6Pgu`e^<UM\\lQ3gjbb6.]kEQ&`)haM'N[G"%?0tG,h+;%YT!MXIKm`gs/B`=#k@iP6c#KIMgq,8.BDQ`E6m$7S#k@p`T+'08o;//4W,l_T'<:=^]+TFJFo*L/!Q*qeC/"4T2lS+!8[/pg56+Hdoa5T@H/F'i+`1DartR~>endstream
+endobj
+xref
+0 171
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000528 00000 n 
+0000000725 00000 n 
+0000000906 00000 n 
+0000001082 00000 n 
+0000001280 00000 n 
+0000001454 00000 n 
+0000001639 00000 n 
+0000001812 00000 n 
+0000002004 00000 n 
+0000002187 00000 n 
+0000002371 00000 n 
+0000002545 00000 n 
+0000002840 00000 n 
+0000003040 00000 n 
+0000003278 00000 n 
+0000003462 00000 n 
+0000003640 00000 n 
+0000003828 00000 n 
+0000004013 00000 n 
+0000004224 00000 n 
+0000004428 00000 n 
+0000004620 00000 n 
+0000004798 00000 n 
+0000005050 00000 n 
+0000005239 00000 n 
+0000005413 00000 n 
+0000005619 00000 n 
+0000005809 00000 n 
+0000005987 00000 n 
+0000006195 00000 n 
+0000006388 00000 n 
+0000006572 00000 n 
+0000006807 00000 n 
+0000006991 00000 n 
+0000007193 00000 n 
+0000007374 00000 n 
+0000007567 00000 n 
+0000007748 00000 n 
+0000007950 00000 n 
+0000008358 00000 n 
+0000008573 00000 n 
+0000008807 00000 n 
+0000008990 00000 n 
+0000009203 00000 n 
+0000009436 00000 n 
+0000009620 00000 n 
+0000009843 00000 n 
+0000010082 00000 n 
+0000010263 00000 n 
+0000010497 00000 n 
+0000010706 00000 n 
+0000010948 00000 n 
+0000011163 00000 n 
+0000011353 00000 n 
+0000011574 00000 n 
+0000011811 00000 n 
+0000011992 00000 n 
+0000012196 00000 n 
+0000012382 00000 n 
+0000012585 00000 n 
+0000012786 00000 n 
+0000012964 00000 n 
+0000013158 00000 n 
+0000013364 00000 n 
+0000013758 00000 n 
+0000013971 00000 n 
+0000014207 00000 n 
+0000014422 00000 n 
+0000014628 00000 n 
+0000014806 00000 n 
+0000015042 00000 n 
+0000015278 00000 n 
+0000015459 00000 n 
+0000015648 00000 n 
+0000015834 00000 n 
+0000016027 00000 n 
+0000016205 00000 n 
+0000016377 00000 n 
+0000016563 00000 n 
+0000016754 00000 n 
+0000016950 00000 n 
+0000017131 00000 n 
+0000017323 00000 n 
+0000017519 00000 n 
+0000017697 00000 n 
+0000017883 00000 n 
+0000018256 00000 n 
+0000018464 00000 n 
+0000018647 00000 n 
+0000018828 00000 n 
+0000019011 00000 n 
+0000019223 00000 n 
+0000019431 00000 n 
+0000019643 00000 n 
+0000019857 00000 n 
+0000020065 00000 n 
+0000020276 00000 n 
+0000020486 00000 n 
+0000020729 00000 n 
+0000020911 00000 n 
+0000021127 00000 n 
+0000021334 00000 n 
+0000021513 00000 n 
+0000021726 00000 n 
+0000021905 00000 n 
+0000022122 00000 n 
+0000022301 00000 n 
+0000022509 00000 n 
+0000022722 00000 n 
+0000022895 00000 n 
+0000023077 00000 n 
+0000023296 00000 n 
+0000023714 00000 n 
+0000023893 00000 n 
+0000024113 00000 n 
+0000024297 00000 n 
+0000024482 00000 n 
+0000024664 00000 n 
+0000024868 00000 n 
+0000025050 00000 n 
+0000025249 00000 n 
+0000025431 00000 n 
+0000025634 00000 n 
+0000025816 00000 n 
+0000026044 00000 n 
+0000026225 00000 n 
+0000026431 00000 n 
+0000026613 00000 n 
+0000026833 00000 n 
+0000027040 00000 n 
+0000027219 00000 n 
+0000027423 00000 n 
+0000027602 00000 n 
+0000027801 00000 n 
+0000027975 00000 n 
+0000028199 00000 n 
+0000028389 00000 n 
+0000028594 00000 n 
+0000028768 00000 n 
+0000028965 00000 n 
+0000029153 00000 n 
+0000029604 00000 n 
+0000029788 00000 n 
+0000029978 00000 n 
+0000030167 00000 n 
+0000030371 00000 n 
+0000030544 00000 n 
+0000030726 00000 n 
+0000030928 00000 n 
+0000031100 00000 n 
+0000031283 00000 n 
+0000031460 00000 n 
+0000031658 00000 n 
+0000031833 00000 n 
+0000032018 00000 n 
+0000032346 00000 n 
+0000032418 00000 n 
+0000032725 00000 n 
+0000032838 00000 n 
+0000034272 00000 n 
+0000035827 00000 n 
+0000037685 00000 n 
+0000039560 00000 n 
+0000041348 00000 n 
+0000043171 00000 n 
+0000045180 00000 n 
+trailer
+<<
+/ID 
+[<fe9a2d4caaf31875b5b7732d03e03081><fe9a2d4caaf31875b5b7732d03e03081>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 161 0 R
+/Root 160 0 R
+/Size 171
+>>
+startxref
+46955
+%%EOF
+160 1 obj
+<<
+/PageMode /UseNone /Pages 162 0 R /Type /Catalog
+ /AF [172 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 172 0 R] >> >> >>
+endobj
+171 0 obj
+<< /Length 24276 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^‘jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^Æjumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:99d74871-c5ba-44e6-8975-215bde378699   ûjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    ﬂcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-11-14T18:45:26.067059ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estart∆ôflength^‘dnamenjumbf manifestcalgfsha256dhashX ŸU)iUäûœá[a‹ØOüôÌÔ≤Æ•◊•ˆ1õˆòncpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:17966e5b-32ff-4da7-bc90-e5a2ccf81aadtclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:99d74871-c5ba-44e6-8975-215bde378699/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX ?¶åhÄ¢≠œ2vçájJW"Á_üe‚É®muÈú€:Éœ¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX ˙›_?ÛtV‡zä∏L+Ú‡èt¡Xt?≥¬O·0∏ îÎ“hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYä0ÇÜ	*ÜHÜ˜†Çw0Çs10	`ÜHe 0ÅÜ*ÜHÜ˜	†wu0s
++Éø0010	`ÜHe  Q)6–T´ˆGˆåœ˛|BmNJ∑>,Chπº^bıxÎ™„s‡ÛC20261114184535.893076Z0Ä;x^‡sÑ†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" ∂TVZ®ÈU5—ceåg_ƒåœEègÈç9•9Úyì@0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄ/ZDà5ΩW®”µÙnïf2.Km"9∆ËÍ¨@YﬂÆΩOÄÑäèø'.ô©ÍuÑyé€)êc‹»—U˝VFØÌ¿ËC.†Ï^<›Œ˛°(®3¬7u!¡H6€¥¥ù<¨ˇT ◊ﬁuÎ|=Ã˛%rF<u∫¥@ÆQd'âJ÷Rˆ8¬’ñÚ¢ç w∞ ÿY	C‰0®u∫ÚˇÎê’ãÔ?]∫	ÖŒΩ>‹át9˙Oo3›b/Ç$òèyê\¢2<ª–ë≥9+l#'cS√ hÛ‡≥)9#7ì5Îƒì®_	œw4ãm&U‰
+aEœ√Q´hûﬂÑXÓ-âçR8(√|ˆwÚR?5Ì1)9.Ë&E¨·¯ÈG‹˚’ÑÁSïI“.©L<÷®ˆ¥7Wu”£˘ENà™ÑM)J0ì¨•©<;|hM$5Œu÷¥ƒCÁvÏbπO'PDô—≥Rcmv.?’ƒ†∆øRÎ?Í‚`…ô S5QÀ Û1erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢-“Ä3óç∂û¸∏5A“§:÷20261114165044Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261114165044Z†20261121165043Z°"0 0	+020161116165044Z°#0!0	+0ÙL5.ˆ±çrˇhªçÆ0	*ÜHÜ˜ ÇÅ £1XâMœùÈ¯4ÇÿK4.ΩIHwcŒJü‡NÔ†]q›ãŒ{æ‘DÙºåˆ‰∞uÙcµ6|7}8Å∆?Oãåå+e*¬ìi⁄K¢ô∆S.T¥ŸÕ"3ÇzÖÂóπ>«v≤Yè˛ö4„·‹GãŸ5î>¬GüËh'sÊÄ›;î'Ô“9 QyZoü°r√ß˛ùxew#º’h–Ç%≤—|≥9π∫fw≥a‚#—√Åœá«¨§;ïhTjáÌ‡h±ÄNë[Ñü™J∆Ej¥í∂£BˆîpÂï_¨4bfOa´&)ntËwÂot8≈„fd$rP,%«⁄™≠‡ÿHÚk≥9Yô_™p;—& %Bö{ï¥n>zµ¢1aÁñÕßıfdñäΩÔ>
+è˜cìOò°Dè·h≤~ƒ‘˛1‹ihR[ª_#< ≠Ø08Â¨z[≥´HSKF3v®ww¯0∞=πÎ5ÕêÚ‡‚v8Cïö7ÄZÎkz!÷nü»Î∞rŒ@C·KíÊ˘±†Ç10Ç-0Ç)0Ç†S!22y[<W3◊;]0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0261104111800Z271104111759Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ∫#è05p!"ﬁ-3•.h€ﬁXB´8;˛Õæ9÷åo¿ÆsXè•vÃqmÔL»/”†|lH)Aƒ§y«êæÖ∆ZztOÓ0[õ:í›ïCÊü¨›6çú ïàäÜ:Âœ£Jˆ8µíˆï[”rç`\F∞˘˘¥€,8’é  0QÂ¢ìã¯,êÒ{å’é`ÏHÏŒ£/≠¥àcgˇΩn*Ó´Dk–x•-y„˛£4 ‡îÚ/:jXf˚J◊›vù≤ﬁy‰™√à`6OqÂêÂZ/^•DïÒ§!fmSªÿv. ·‘a⁄™»¬∏ãL])[ÌVÉÈ;€≠}º!œX…‹<1pﬂqâä~æ>Ü^ﬁL›‹ÃÙÁÅ>Û»m˛ìrÆ‹Ú€Æ_√ q≤$Axﬂ?Q!¨Û≤<PÌ1ƒ≠(èÇf ø7#‹c÷|ËzÆgÌ∆π¯ã¨ÈîäXMπ)P—bXØ^ÜR ˚~åOC⁄Dípê~°øò„ £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0U-“Ä3óç∂û¸∏5A“§:÷0UˇÄ0	*ÜHÜ˜ Ç √ú‹U‰qú/ﬁz˛Aõ‘9†e8§–J=‡≤¶#{v(iOíênaΩˆœËÅÏ
+ˆép˛‹Ÿ7∂g	ÆcÒ¸í∫A"ZDi…4’Æ)[ÿ3ó®bb'R˘;6ï"cf√e+‰rf;=A»sòßØ{òejæX˚æN “_˘ßæˆT8“÷˝F•'üê“–âjp^ºYìÄZM;Háº3°Ô@~ˆÛäµ[ﬁ~Æ$75â§!—VÔp§Ï€‘<@ºC«√%Bç˜˙?·;;Dﬁõ1Xá#‰Ë”K£àóKÿ¶©ø/´N‹˛Gs	n)M# ÈIlK0äOÌ„ﬁFGÎ |Î“âÇÜ˙‹ D†T†Û–+â∞ﬂZ∞8Y`Ú@JÕ_œ¨’†¨Ms√¶Ïø°a#ﬂ9ækﬂTÓ…ÑÏAvôa÷®ù“['©PäÈ_Ò¡ï1≈˙|bˇÏÓ—Z	]ò÷+Qôßmô{~&”}?üÈ’∑©‡ iß‡*»$bï0j/dê—Ò4£©u
+Ò*Óî|v$˚npÃ€…È§ñ>Qßá?}„îe`K}∑Ïß÷Ωòö¥™¸GËx«éTı≤À˝9ìª4%À‘≈∂OÆ•)äHaâ∑PàˆxQ‘®5Œ1v¿•∞ìüÙ≠?≠R¯Ÿ\ó∏ÌLª&cpadY&v                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ˆY aÕˆßÍd,+'NÈÙ.Ue¬5pæõ±a7U”0NXû•≤†5I≤/Ão:6Ö–ä„Uï[#“π ?±q4ë©‘rbï t°ÆáÁ®„aR∆ΩårıBî˙wòŸŸ¥9dÓ§Õm\‹…ú˙º.t÷Aƒªñm™-í›Iÿÿ}õ3|˙ÚÚV'çy,›:6˙Tß!ˆOﬂﬁ¡:Ó7ä©g]Ù33F˝.…§Ùö˜„1·Îïƒî%zvÿÔe0,QoäÚçadQﬂñ’©(w1È¯2œVP6∆^NMÉ1 2í+—HÙ3Nâm€‡iT¬TR'2æÿzQ©ñ ®S>˜F¥°ì®@˙Æ€
+endstream
+endobj
+172 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 171 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+160 1
+0000050595 00001 n 
+171 2
+0000050755 00000 n 
+0000075135 00000 n 
+trailer
+<< /Size 173 /Root 160 1 R /Prev 46955 /ID [<fe9a2d4caaf31875b5b7732d03e03081><fe9a2d4caaf31875b5b7732d03e03081>] >>
+startxref
+75333
+%%EOF
